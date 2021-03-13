@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f165bfdf-476d-4f77-aaff-7f13a5b862ac" name="Default Changelist" comment="usunięcie linii" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pQjdkDWs4reCwkMNx5KXjr3tn4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.TestPracownikVer1">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ZPO-ChudyRafal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RachunekBankowyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RachunekBankowyTest" />
+      <module name="ZPO-ChudyRafal" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPracownikVer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestPracownikVer1" />
+      <module name="ZPO-ChudyRafal" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestPracownikVer1" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.RachunekBankowyTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f165bfdf-476d-4f77-aaff-7f13a5b862ac" name="Default Changelist" comment="" />
+      <created>1615122298299</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615122298299</updated>
+    </task>
+    <task id="LOCAL-00001" summary="dodanie RachunekBankowy">
+      <created>1615126036207</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615126036208</updated>
+    </task>
+    <task id="LOCAL-00002" summary="usunięcie linii">
+      <created>1615126543907</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615126543907</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dodanie RachunekBankowy" />
+    <MESSAGE value="usunięcie linii" />
+    <option name="LAST_COMMIT_MESSAGE" value="usunięcie linii" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615124891192">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834/1920.0.1680.1020@0.0.1536.834" timestamp="1615124891192" />
+    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1615125243546">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834/1920.0.1680.1020@0.0.1536.834" timestamp="1615125243546" />
+    <state x="498" y="207" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1615124879689">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="498" y="207" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.834/1920.0.1680.1020@0.0.1536.834" timestamp="1615124879689" />
+    <state x="490" y="106" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1615126721142">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="490" y="106" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.834/1920.0.1680.1020@0.0.1536.834" timestamp="1615126721142" />
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1615594376704">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1615594376704" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1615127181416">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1680.1020@0.0.1536.834" timestamp="1615127181416" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1615594662576">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1680.1020@0.0.1536.834" timestamp="1615126840116" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1615594662576" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1615594662575">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1680.1020@0.0.1536.834" timestamp="1615126840116" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1615594662575" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1615594662575">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1680.1020@0.0.1536.834" timestamp="1615126840115" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1615594662575" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1615594662576">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1680.1020@0.0.1536.834" timestamp="1615126840116" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1615594662576" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1615565448595">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1615565448595" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1615565448595">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1615565448595" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1615565448595">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1615565448595" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1615565448595">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1615565448595" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1615126554491">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.0.1680.1020@0.0.1536.834" timestamp="1615126554491" />
+    <state x="209" y="38" key="new project wizard" timestamp="1615565471961">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="209" y="38" key="new project wizard/0.0.1536.834/1920.0.1680.1020@0.0.1536.834" timestamp="1615127240391" />
+    <state x="209" y="38" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1615565471961" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1615126734305">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/1920.0.1680.1020@0.0.1536.834" timestamp="1615126734305" />
+  </component>
+</project>
